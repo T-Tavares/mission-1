@@ -1,0 +1,6 @@
+[submodule "m1-backend"]
+	path = m1-backend
+	url = https://github.com/T-Tavares/m1-backend
+[submodule "m1-frontend"]
+	path = m1-frontend
+	url = https://github.com/T-Tavares/m1-frontend

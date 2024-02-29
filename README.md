@@ -18,3 +18,32 @@ Turners is currently undertaking a major re-design of its motor vehicle insuranc
 ## Used Technologies
 
 Typescript, React, NodeJS, Express, Jest
+
+## Presentation Link
+
+[Presentation](https://www.figma.com/file/HhJ7OYHQJXl7002MoiP59M/Mission-1---Thiago-Tavares?type=design&node-id=0%3A1&mode=design&t=eJQbwsON163eWIpj-1)
+
+## Installing and Using API
+
+After cloning the repo, run this git code to pull the submodules files.
+
+If you're running for the first time, the --init flag is needed.
+
+```
+git submodule update --init --recursive
+```
+
+for updates, this should work.
+
+```
+git submodule update --recursive
+```
+
+With that out of the way go on each folder, frontend and backend and install the npm packages and run a npm run dev.
+
+On both frontend and backend run.
+
+```
+npm i
+npm run dev
+```
